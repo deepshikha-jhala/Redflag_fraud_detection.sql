@@ -23,9 +23,6 @@ The objective of this project is to analyze a dataset containing **200,000+ simu
 - MySQL
 - SQL
 
-## 📷 Project Screenshots
-The **screenshots/** folder contains sample outputs from selected fraud detection queries.
-
 ## About Me
 I'm actively building practical projects to strengthen my analytical skills and prepare for opportunities in the data domain.
 
