@@ -23,7 +23,15 @@ The objective of this project is to analyze a dataset containing **200,000+ simu
 - MySQL
 - SQL
 
-## About Me
+## 📚 What I Learned
+This project helped me:
+- Apply SQL to solve real-world business problems.
+- Analyze large datasets efficiently.
+- Strengthen logical and analytical thinking.
+- Gain hands-on experience with advanced SQL concepts.
+- Understand fraud detection techniques used in fintech.
+
+
 I'm actively building practical projects to strengthen my analytical skills and prepare for opportunities in the data domain.
 
 📌 **Let's connect on LinkedIn and grow together!**
